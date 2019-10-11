@@ -1,0 +1,21 @@
+{
+  "name": "lambert-conversion",
+  "version": "1.0.0",
+  "description": "Minimalist package to convert spherical coordinates to Lambert coordinates and back.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Lambert",
+    "Lambert1978",
+    "Lambert2008",
+    "conversion",
+    "geography",
+    "coordinate",
+    "sphere",
+    "Belgium"
+  ],
+  "author": "Matsvei Tsishyn",
+  "license": "ISC"
+}
